@@ -48,8 +48,8 @@ Náklady na bydlení se běžně skládají z více položek. V našem případ�
 
 Kontaktujte mě prosím e-mailem nebo telefonicky:
 
-Marcel Klínek  
-marcel.klinek@proton.me  
-Tel: +420 608 038 774  
+Marcel Klínek, marcel.klinek@proton.me
+
+Tel: +420 608 038 774
 
 <script src="js/lightbox-plus-jquery.min.js"></script>
