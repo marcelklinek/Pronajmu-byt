@@ -15,7 +15,7 @@ Byt je spíše menší, 52 m². Je to původně 2+1. Kuchyň je teď propojená 
 
 ### Je byt zařízen?
 
-V bytě je kuchyňská linka včetně myčky. Jinak byt pronajímám nezařízen.
+V bytě je kuchyňská linka včetně myčky. Jinak byt pronajímám nezařízený.
 
 ### Fotky
 
