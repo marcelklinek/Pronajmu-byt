@@ -34,7 +34,7 @@ Od 1. prosince 2022.
 
 Náklady na bydlení se běžně skládají z více položek. V našem případě to jsou:
 
-- Nájem jako takový: **8 200,-**
+- Nájem: **8 200,-**
 - Zálohy na vodu: podle spotřeby, odhadem **500,-**
 - Elektřina: podle spotřeby
 - Plyn: podle spotřeby. Roční spotřebu plynu počítejte asi 9 MWh
