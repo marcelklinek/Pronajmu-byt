@@ -3,7 +3,7 @@
 <link href="/css/pronajem-bytu.css" rel="stylesheet" />
 <link href="/css/lightbox.min.css" rel="stylesheet" />
 
-## Nabízím pronájem bytu
+## Inzerát na byt, ve kterém chci bydlet
 
 ### O co jde?
 
