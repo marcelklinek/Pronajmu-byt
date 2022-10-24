@@ -36,9 +36,13 @@ Od 1. prosince 2022.
 Náklady na bydlení se běžně skládají z více položek. V našem případě to jsou:
 
 - Nájem jako takový: **7 200,-**
-- Zálohy na vodu: podle spotřeby, odhadem **1 000,-**
-- Elektřina, plyn: podle spotřeby, uzavíráte smlouvu přímo s ČEZ, innogy, apod.
-- Internet, ostatní služby: uzavíráte smlouvu přímo s O2, příp. UPC
+- Zálohy na vodu: podle spotřeby, odhadem **800,-**
+- Elektřina, plyn: podle spotřeby, odhadem **800,-**
+- Plyn: podle spotřeby, odhadem **800,-**
+- Internet: odhadem **500,-**
+
+Celkem tedy počítejte s celkovými náklady bydlení někde kolem **10 100,-**
+S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 
 ### Co ještě potřebuji vědět?
 
