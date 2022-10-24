@@ -52,6 +52,11 @@ S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 - Byt je v přízemí
 - K bytu je velký sklep
 
+### Recenze předchozích nájemníků
+
+- Jakub W.
+- Jaromír F.
+
 ### Jak tě můžu kontaktovat?
 
 Kontaktujte mě prosím e-mailem nebo telefonicky:
