@@ -34,13 +34,13 @@ Od 1. prosince 2022.
 
 Náklady na bydlení se běžně skládají z více položek. V našem případě to jsou:
 
-- Nájem jako takový: **7 200,-**
-- Zálohy na vodu: podle spotřeby, odhadem **800,-**
+- Nájem jako takový: **8 200,-**
+- Zálohy na vodu: podle spotřeby, odhadem **500,-**
 - Elektřina: podle spotřeby
 - Plyn: podle spotřeby. Roční spotřebu plynu počítejte asi 9 MWh
 - Internet: odhadem **500,-**
 
-Orientačně můžete počítat s náklady na bydlení někde kolem **10 000,-**
+Orientačně můžete počítat s náklady na bydlení někde kolem **11 000,-**
 S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 
 ### Co ještě potřebuji vědět?
@@ -53,7 +53,7 @@ S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 
 ### Hodnocení od nájemníků
 
-#### Jakub
+**Jakub**
 
 Bydlel zde v době: listopad 2020 — prosinec 2022
 
@@ -75,7 +75,7 @@ Negativa:
 - Vyšší vlhkost
 - Absence stínicí techniky. Žaluzie na jižní straně
 
-#### Jaromír
+**Jaromír**
 
 Bydlel zde v době: červenec 2016 — říjen 2020
 
