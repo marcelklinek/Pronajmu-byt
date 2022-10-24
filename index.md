@@ -11,11 +11,11 @@ Nabízím pronájem bytu 2+1 v Opavě na ul. Jurečkova. [Mapka](https://goo.gl/
 
 ### Jak je to velké?
 
-Byt je spíše menší, 52 m². Je to původně 2+1. Kuchyň je teď propojená s obyvákem. Byt se ideálně hodí pro jednoho člověka nebo mladý pár bez dětí.
+Byt je spíše menší, 52 m². Je to původně 2+1. Kuchyň je teď propojená s obyvákem. Byt se ideálně hodí pro __jednoho člověka__ nebo __mladý pár bez dětí__.
 
 ### Je byt zařízen?
 
-V bytě je kuchyňská linka vč. myčky. Jinak byt pronajímám nezařízen.
+V bytě je kuchyňská linka včetně myčky. Jinak byt pronajímám nezařízen.
 
 ### Fotky
 
@@ -47,7 +47,7 @@ S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 
 - Ohřev vody a topení kombinovaným **kondenzačním** plynovým kotlem
 - V domě je optické připojení k internetu od Vodafone a T-Mobile
-- Dům je zateplený
+- Dům je zateplen
 - Byt je v přízemí
 - K bytu je velký sklep
 
@@ -69,11 +69,11 @@ Pozitiva:
 
 Negativa:
 
-- Málo uložných prostor v interieru, hlavne v kuchyni
+- Málo úložných prostor v interiéru, hlavně v kuchyni
 - Hluční sousedé
 - Studená podlaha v zimě
 - Vyšší vlhkost
-- Absence stínici techniky. Žaluzie na jižní straně.
+- Absence stínicí techniky. Žaluzie na jižní straně
 
 #### Jaromír
 
