@@ -1,6 +1,7 @@
-<link href="/css/lightbox.min.css" rel="stylesheet" />
+<link href="/css/normalize.css" rel="stylesheet" />
 <link href="/css/typebase.css" rel="stylesheet" />
 <link href="/css/pronajem-bytu.css" rel="stylesheet" />
+<link href="/css/lightbox.min.css" rel="stylesheet" />
 
 # Nabízím pronájem bytu
 
