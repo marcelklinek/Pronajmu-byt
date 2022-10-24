@@ -1,4 +1,4 @@
-<link href="css/lightbox.min.css" rel="stylesheet" />
+<link href="/css/lightbox.min.css" rel="stylesheet" />
 
 # Nabízím pronájem bytu
 
@@ -14,13 +14,13 @@ Byt je spíše menší, 52 m². Je to původně 2+1. Kuchyň je teď propojená 
 
 V bytě je kuchyňská linka vč. myčky. Jinak byt pronajímám nezařízen.
 
-<a href="images/predsin.jpeg" data-lightbox="byt">Předsíň</a>
-<a href="images/loznice.jpeg" data-lightbox="byt">Ložnice</a>
-<a href="images/koupelna.jpeg" data-lightbox="byt">Koupelna</a>
+<a href="/images/predsin.jpeg" data-lightbox="byt">Předsíň</a>
+<a href="/images/loznice.jpeg" data-lightbox="byt">Ložnice</a>
+<a href="/images/koupelna.jpeg" data-lightbox="byt">Koupelna</a>
 
-<a href="images/koupelna2.jpeg" data-lightbox="byt">Koupelna #2</a>
-<a href="images/obyvak.jpeg" data-lightbox="byt">Obyvák</a>
-<a href="images/kuchyn.jpeg" data-lightbox="byt">Kuchyň</a>
+<a href="/images/koupelna2.jpeg" data-lightbox="byt">Koupelna #2</a>
+<a href="/images/obyvak.jpeg" data-lightbox="byt">Obyvák</a>
+<a href="/images/kuchyn.jpeg" data-lightbox="byt">Kuchyň</a>
 
 ## Od kdy je volný?
 
