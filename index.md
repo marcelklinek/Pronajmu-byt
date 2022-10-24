@@ -19,13 +19,13 @@ V bytě je kuchyňská linka vč. myčky. Jinak byt pronajímám nezařízen.
 
 ### Fotky
 
-<a href="/images/predsin.jpeg" data-lightbox="byt">Předsíň</a>
-<a href="/images/loznice.jpeg" data-lightbox="byt">Ložnice</a>
-<a href="/images/koupelna.jpeg" data-lightbox="byt">Koupelna</a>
+<a href="/images/predsin.jpeg" data-lightbox="byt"><img src="/images/predsin_min.jpeg"></a>
+<a href="/images/loznice.jpeg" data-lightbox="byt"><img src="/images/loznice_min.jpeg"></a>
+<a href="/images/koupelna.jpeg" data-lightbox="byt"><img src="/images/koupelna_min.jpeg"></a>
 
-<a href="/images/koupelna2.jpeg" data-lightbox="byt">Koupelna #2</a>
-<a href="/images/obyvak.jpeg" data-lightbox="byt">Obyvák</a>
-<a href="/images/kuchyn.jpeg" data-lightbox="byt">Kuchyň</a>
+<a href="/images/koupelna2.jpeg" data-lightbox="byt"><img src="/images/koupelna2_min.jpeg"></a>
+<a href="/images/obyvak.jpeg" data-lightbox="byt"><img src="/images/obyvak_min.jpeg"></a>
+<a href="/images/kuchyn.jpeg" data-lightbox="byt"><img src="/images/kuchyn_min.jpeg"></a>
 
 ### Od kdy je volný?
 
@@ -52,10 +52,10 @@ S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 - Byt je v přízemí
 - K bytu je velký sklep
 
-### Recenze předchozích nájemníků
+### Hodnocení od nájemníků
 
-- Jakub W.
-- Jaromír F.
+- Jakub
+- Jaromír
 
 ### Jak tě můžu kontaktovat?
 
