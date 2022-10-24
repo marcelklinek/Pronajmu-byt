@@ -73,7 +73,7 @@ Negativa:
 - Hluční sousedé
 - Studená podlaha v zimě
 - Vyšší vlhkost
-- Absence stínicí techniky. Žaluzie na jižní straně
+- Absence stínicí techniky. Bylo by fajn mít žaluzie na jižní straně
 
 **Jaromír**
 
