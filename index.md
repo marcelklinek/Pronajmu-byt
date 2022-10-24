@@ -1,4 +1,5 @@
 <link href="/css/lightbox.min.css" rel="stylesheet" />
+<link href="/css/typebase.css" rel="stylesheet" />
 <link href="/css/pronajem-bytu.css" rel="stylesheet" />
 
 # Nabízím pronájem bytu
@@ -14,6 +15,8 @@ Byt je spíše menší, 52 m². Je to původně 2+1. Kuchyň je teď propojená 
 ## Je byt zařízen?
 
 V bytě je kuchyňská linka vč. myčky. Jinak byt pronajímám nezařízen.
+
+## Fotky
 
 <a href="/images/predsin.jpeg" data-lightbox="byt">Předsíň</a>
 <a href="/images/loznice.jpeg" data-lightbox="byt">Ložnice</a>
