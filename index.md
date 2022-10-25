@@ -81,10 +81,6 @@ Bydlel zde v době: červenec 2016 — říjen 2020
 
 ### Jak tě můžu kontaktovat?
 
-Marcel Klínek, Tel: +420 608 038 774
-
-marcel.klinek@proton.me
-
-
+Marcel Klínek, tel: +420 608 038 774, marcel.klinek@proton.me
 
 <script src="js/lightbox-plus-jquery.min.js"></script>
