@@ -59,7 +59,7 @@ Bydlel zde v době: listopad 2020 — listopad 2022
 
 Bydleli jsme s partnerkou a malým synkem. Je odsud blízko do centra města, klidné umístění.
 
-Pozitiva:
+**Pozitiva:**
 
 - Nízké náklady na bydlení
 - Parkování lze jednoduše najít v okolí
@@ -67,7 +67,7 @@ Pozitiva:
 - Nová okna, energeticky nenáročný dům
 - Možnost využití zahrady
 
-Negativa:
+**Negativa:**
 
 - Málo úložných prostor v interiéru, hlavně v kuchyni
 - Hluční sousedé
@@ -78,6 +78,20 @@ Negativa:
 **Jaromír**
 
 Bydlel zde v době: červenec 2016 — říjen 2020
+
+**Pozitiva:**
+
+Nízké náklady na bydlení
+MHD a obchod v bezprostřední vzdálenosti od bytu
+Prostorná koupelna
+Domácí mazlíčci nejsou problém
+Klidné místo
+Veliký sklep
+
+**Negativa:**
+
+Kuchyně zoufale postrádá špajz
+V bytě je vlhko a složitě se suší prádlo
 
 ### Jak tě můžu kontaktovat?
 
