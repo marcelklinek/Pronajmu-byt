@@ -81,17 +81,17 @@ Bydlel zde v době: červenec 2016 — říjen 2020
 
 **Pozitiva:**
 
-Nízké náklady na bydlení
-MHD a obchod v bezprostřední vzdálenosti od bytu
-Prostorná koupelna
-Domácí mazlíčci nejsou problém
-Klidné místo
-Veliký sklep
+- Nízké náklady na bydlení
+- MHD a obchod v bezprostřední vzdálenosti od bytu
+- Prostorná koupelna
+- Domácí mazlíčci nejsou problém
+- Klidné místo
+- Veliký sklep
 
 **Negativa:**
 
-Kuchyně zoufale postrádá špajz
-V bytě je vlhko a složitě se suší prádlo
+- Kuchyně zoufale postrádá špajz
+- V bytě je vlhko a složitě se suší prádlo
 
 ### Jak tě můžu kontaktovat?
 
