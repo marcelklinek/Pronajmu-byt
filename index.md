@@ -7,11 +7,11 @@
 
 ### O co jde?
 
-Nabízím pronájem bytu 2+1 v Opavě na ul. Jurečkova. [Mapka](https://goo.gl/maps/LH5P5Xo967G5QT6B9).
+Nabízím pronájem bytu 2 + 1 v Opavě, na ul. Jurečkově. [Mapka](https://goo.gl/maps/LH5P5Xo967G5QT6B9).
 
 ### Jak je to velké?
 
-Byt je spíše menší, 52 m². Je to původně 2+1. Kuchyň je teď propojená s obyvákem. Byt se ideálně hodí pro __jednoho člověka__ nebo __mladý pár bez dětí__.
+Byt je spíše menší, 52 m². Je to původně 2 + 1. Kuchyň je teď propojená s obyvákem. Byt se ideálně hodí pro __jednoho člověka__ nebo __mladý pár bez dětí__.
 
 ### Je byt zařízen?
 
@@ -32,7 +32,7 @@ Od 1. prosince 2022.
 
 ### Kolik se platí?
 
-Náklady na bydlení se běžně skládají z více položek. V našem případě to jsou:
+Náklady na bydlení se běžně skládají z více položek. V tomto případě to jsou:
 
 - Nájem: **8 200,-**
 - Zálohy na vodu: podle spotřeby, odhadem **600,-**
@@ -40,7 +40,7 @@ Náklady na bydlení se běžně skládají z více položek. V našem případ�
 - Plyn: podle spotřeby. Roční spotřebu plynu počítejte asi 9 MWh
 - Internet: odhadem **500,-**
 
-Orientačně můžete počítat s náklady na bydlení někde kolem **11 000,-**
+Orientačně můžete počítat s celkovými náklady na bydlení někde kolem **11 000,-**
 S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 
 ### Co ještě potřebuji vědět?
@@ -55,9 +55,9 @@ S dodavateli elektřiny, plynu a internetu uzavíráte smlouvu vy.
 
 **Jakub**
 
-Bydlel zde v době: listopad 2020 — prosinec 2022
+Bydlel zde v době: listopad 2020 — listopad 2022
 
-Bydleli jsme s přítelkyní a malým synkem. Je odsud blízko do centra města, klidné umístění.
+Bydleli jsme s partnerkou a malým synkem. Je odsud blízko do centra města, klidné umístění.
 
 Pozitiva:
 
@@ -73,7 +73,7 @@ Negativa:
 - Hluční sousedé
 - Studená podlaha v zimě
 - Vyšší vlhkost
-- Absence stínicí techniky. Bylo by fajn mít žaluzie na jižní straně
+- Absence stínicí techniky. Bylo by fajn mít na jižní straně žaluzie
 
 **Jaromír**
 
@@ -81,10 +81,10 @@ Bydlel zde v době: červenec 2016 — říjen 2020
 
 ### Jak tě můžu kontaktovat?
 
-Kontaktujte mě prosím e-mailem nebo telefonicky:
+Marcel Klínek, Tel: +420 608 038 774
 
-Marcel Klínek, marcel.klinek@proton.me
+marcel.klinek@proton.me
 
-Tel: +420 608 038 774
+
 
 <script src="js/lightbox-plus-jquery.min.js"></script>
