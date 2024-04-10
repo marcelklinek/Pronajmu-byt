@@ -3,3 +3,50 @@ body {
     margin: 0 auto;
     padding-bottom: 50px;
 }
+
+.flex-container, .hlavicka {
+    display: flex;
+    gap: 1rem;
+}
+
+@media (max-width: 25em) {
+    .flex-container {
+        flex-direction: column;
+    }
+}
+
+.col-1 {
+    flex: 1;
+}
+
+.col-2 {
+    flex: 2;
+}
+
+.col-3 {
+    flex: none;
+    align-items: center;
+}
+
+@media (max-width: 25em) {
+  .container {
+    padding: 0.3rem;
+  }
+}
+
+.language {
+    margin-left: auto;
+}
+
+.zapati {
+    margin-top: 2.5rem;
+}
+
+.image-container {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.image-container img  {
+    width: 100%;
+}
